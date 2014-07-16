@@ -1,1 +1,1 @@
-web: node ./bin/www
+web: http-server -p 5000
